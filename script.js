@@ -13,7 +13,6 @@ while(numeroUsuario != 0 ){
     
 } */
 
-
 let vidas = 100
 
 while(vidas !=5){
